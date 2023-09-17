@@ -13,8 +13,8 @@ import { en, es, id, ar, pt } from './lib/idiomas/total-idiomas.js'
 // EN ➜ Add the Bot number as priority first
 // EN ➜ If you want to receive reports you must use the three parameters (Number, name and true)
 global.owner = [
-['59162055926', 'Polar-𝙈D', true],
-['59162055926', '𝙊𝙬𝙣𝙚𝙧 👻', true], 
+['59162055926', 'Polar-MD', true],
+['59162055926', '𝙊𝙬𝙣𝙚𝙧 😍', true], 
 
 global.mods = [] 
 global.prems = []
@@ -41,7 +41,7 @@ global.keysxteammm = ['29d4b59a4aa687ca', '5LTV57azwaid7dXfz5fzJu', 'cb15ed422c7
 global.keysxteam = keysxteammm[Math.floor(keysxteammm.length * Math.random())]
 global.keysneoxrrr = ['5VC9rvNx', 'cfALv5']
 global.keysneoxr = keysneoxrrr[Math.floor(keysneoxrrr.length * Math.random())]
-global.lolkeysapi = 'GataDios'
+global.lolkeysapi = 'Polar-MD'
 global.itsrose = ['4b146102c4d500809da9d1ff']
 global.baileys = '@whiskeysockets/baileys'
 
@@ -100,7 +100,7 @@ global.country = '' //agrega tú país ejemplo: 🇧🇴
 global.vs = '1.3.2-(beta)'
 global.vsJB = '4.0'
 
-global.gt = 'Polar-𝙈𝘿'
+global.gt = 'Polar-MD'
 global.yt = 'https://youtube.com/@gatadios'
 global.yt2 = 'https://www.youtube.com/watch?v=Ko019wvu2Tc&t=71s'
 global.ig = 'https://www.instagram.com/gata_dios'
