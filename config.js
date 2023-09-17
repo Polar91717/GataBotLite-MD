@@ -26,8 +26,8 @@ global.prems = []
 global.lenguajeGB = es  //<-- Predeterminado en idioma Español 
 
 // confirmación en el ajuste de idioma y owner en la consola
-global.languageLen = "es"
-global.registerNumber = "59162055926"
+global.languageLen = ""
+global.registerNumber = ""
 
 // ES ➜ Consigue Apikey en https://platform.openai.com/account/api-keys
 global.openai_key = 'sk-0'
@@ -81,13 +81,13 @@ global.fetch = fetch
 global.axios = axios
 global.moment = moment	
 
-global.packname = 'Polar-MD 👻
-global.author = 'Polar 𝘿𝙞𝙤𝙨'
+global.packname = 'Polar-MD 
+global.author = 'Polar'
 
 // ES ➜ Está parte es para mostrar el contacto de alguien al usar #contacto
 // EN ➜ This part is to display someone's contact using #contact
 global.official = [ 
-['59162055926', 'Polar Dios 💻', 1], 
+['59162055926', 'Polar 💻', 1], 
 ['59162055926', '𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1],  
 ['59162055926', '𝗖𝘂𝘀𝘁𝗼𝗺𝗲𝗿 𝗦𝘂𝗽𝗽𝗼𝗿𝘁 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 🥏', 1],
 ['59162055926', '𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿𝗮 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1]] 
@@ -95,7 +95,7 @@ global.official = [
 global.mail = '' //agrega tú correo
 global.desc = '' //agrega una descripción corta
 global.desc2 = '' //agrega una descripción larga (Solo se aplicará si su whasapp no tiene descripción)
-global.country = '' //agrega tú país ejemplo: 🇪🇨
+global.country = '' //agrega tú país ejemplo: 🇧🇴
 
 global.vs = '1.3.2-(beta)'
 global.vsJB = '4.0'
@@ -123,8 +123,8 @@ global.nnnttt5 = 'https://chat.whatsapp.com/HOCsvLox0Ui7cwzTCeFhPP' //A.T.M.M
 global.paypal = 'https://paypal.me/OficialGD'
 global.asistencia = 'Wa.me/59162055926' //Dudas? escríbeme...
 
-global.wm = 'Polar-𝙈𝘿 👻 : Polar 𝘿𝙞𝙤𝙨'
-global.igfg = 'Polar-𝙈𝘿'
+global.wm = 'Polar-MD  : Polar '
+global.igfg = 'Polar-MD'
 global.wait = lenguajeGB['smsMeWait']()
 global.wait2 = lenguajeGB.smsWait()
 global.nomorown = owner[0][0]
